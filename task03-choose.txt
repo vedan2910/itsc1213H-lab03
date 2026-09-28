@@ -2,3 +2,4 @@ https://www.kaggle.com/datasets/eishatuzzuhra/ai-usage-and-impact-on-students-an
 Records: 100+
 Features: 288
 I chose this dataset because I want to know how AI is impacting schools and learning and jobs and what role AI plays in those.
+This dataset shows how AI impacts the learning and productivity of AI and whether it's helpful or not using numbers and data.
